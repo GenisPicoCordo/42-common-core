@@ -20,7 +20,7 @@
 ## ABOUT
 The **42 Common Core** was developed in Paris in 2013 and is continually evaluated and developed. Students progress through the program by completing projects and earning points to level up, making the learning experience feel like a game.
 
-This repository contains code developed at **42 Porto Common Core**, from **09/09/2024** to **present day**. </br>
+This repository contains code developed at **42 Barcelona Common Core**, from **09/09/2024** to **present day**. </br>
 
 > [!NOTE]  
 > If you are looking for code related to the **42 Barcelona Piscine**, <a href="https://github.com/genispicocordo/42-piscine">click here</a>.

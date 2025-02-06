@@ -50,6 +50,7 @@ This repository contains code developed at **42 Barcelona Common Core**, from **
 | Exam Rank | Language | Finish Date | Grade | Time |
 | :--- | :--- | :--- | :--- | :--- |
 | Exam 02 | `C` | 22-11-2024 | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `3 hours` |
+| Exam 03 | `C` | 06-02-2025 | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `3 hours` |
 
 </div>
 

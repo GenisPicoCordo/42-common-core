@@ -37,7 +37,7 @@ This repository contains code developed at **42 Barcelona Common Core**, from **
 | [push_swap](https://github.com/genispicocordo/push_swap) | <img src="https://img.shields.io/github/languages/top/jotavare/push_swap"/> | <img src="https://img.shields.io/badge/84%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/push_swap"/> | `3 peers` `15 mins` |
 | [minitalk](https://github.com/genispicocordo/minitalk) | <img src="https://img.shields.io/github/languages/top/jotavare/minitalk"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/minitalk"/> | `3 peers` `15 mins` |
 | [fdf](https://github.com/genispicocordo/fdf) | <img src="https://img.shields.io/github/languages/top/jotavare/fdf"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/minitalk"/> | `3 peers` `15 mins` |
-| [philosophers](https://github.com/genispicocordo/philosophers) | <img src="https://img.shields.io/github/languages/top/jotavare/philosophers"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | <img
+| [philosophers](https://github.com/genispicocordo/philosophers) | <img src="https://img.shields.io/github/languages/top/jotavare/philosophers"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/philosophers"/> | `3 peers` `15 mins` |
 
 </div>
 

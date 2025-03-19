@@ -36,7 +36,9 @@ This repository contains code developed at **42 Barcelona Common Core**, from **
 | [born2beroot](https://github.com/genispicocordo/born2beroot) | <img src="https://img.shields.io/github/languages/top/jotavare/born2beroot"/> | <img src="https://img.shields.io/badge/113%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/born2beroot"/> | `3 peers` `1 hour` |
 | [push_swap](https://github.com/genispicocordo/push_swap) | <img src="https://img.shields.io/github/languages/top/jotavare/push_swap"/> | <img src="https://img.shields.io/badge/84%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/push_swap"/> | `3 peers` `15 mins` |
 | [minitalk](https://github.com/genispicocordo/minitalk) | <img src="https://img.shields.io/github/languages/top/jotavare/minitalk"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/minitalk"/> | `3 peers` `15 mins` |
-| [fdf](https://github.com/genispicocordo/fdf) | <img src="https://img.shields.io/github/languages/top/jotavare/minitalk"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/minitalk"/> | `3 peers` `15 mins` |
+| [fdf](https://github.com/genispicocordo/fdf) | <img src="https://img.shields.io/github/languages/top/jotavare/fdf"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/minitalk"/> | `3 peers` `15 mins` |
+src="https://img.shields.io/github/last-commit/genispicocordo/minishell"/> | `3 peers` `15 mins` |
+| [minishell](https://github.com/genispicocordo/minishell) | <img src="https://img.shields.io/github/languages/top/jotavare/minisehll"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/minitalk"/> | `3 peers` `15 mins` |
 
 </div>
 

@@ -39,6 +39,7 @@ This repository contains code developed at **42 Barcelona Common Core**, from **
 | [fdf](https://github.com/genispicocordo/fdf) | <img src="https://img.shields.io/github/languages/top/jotavare/fdf"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/minitalk"/> | `3 peers` `15 mins` |
 | [philosophers](https://github.com/genispicocordo/philosophers) | <img src="https://img.shields.io/github/languages/top/jotavare/philosophers"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/philosophers"/> | `3 peers` `15 mins` |
 | [minishell](https://github.com/genispicocordo/minishell) | <img src="https://img.shields.io/github/languages/top/jotavare/minishell"/> | <img src="https://img.shields.io/badge/99%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/minishell"/> | `3 peers` `15 mins` |
+| [net_practice](https://github.com/genispicocordo/net_practice) | <img src="https://img.shields.io/github/languages/top/jotavare/net_practice"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/net_practice"/> | `3 peers` `15 mins` |
 
 </div>
 

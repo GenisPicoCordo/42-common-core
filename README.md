@@ -38,6 +38,7 @@ This repository contains code developed at **42 Barcelona Common Core**, from **
 | [minitalk](https://github.com/genispicocordo/minitalk) | <img src="https://img.shields.io/github/languages/top/jotavare/minitalk"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/minitalk"/> | `3 peers` `15 mins` |
 | [fdf](https://github.com/genispicocordo/fdf) | <img src="https://img.shields.io/github/languages/top/jotavare/fdf"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/minitalk"/> | `3 peers` `15 mins` |
 | [philosophers](https://github.com/genispicocordo/philosophers) | <img src="https://img.shields.io/github/languages/top/jotavare/philosophers"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/philosophers"/> | `3 peers` `15 mins` |
+| [minishell](https://github.com/genispicocordo/minishell) | <img src="https://img.shields.io/github/languages/top/jotavare/minishell"/> | <img src="https://img.shields.io/badge/99%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/genispicocordo/minishell"/> | `3 peers` `15 mins` |
 
 </div>
 
@@ -52,6 +53,7 @@ This repository contains code developed at **42 Barcelona Common Core**, from **
 | :--- | :--- | :--- | :--- | :--- |
 | Exam 02 | `C` | 22-11-2024 | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `3 hours` |
 | Exam 03 | `C` | 06-02-2025 | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `3 hours` |
+| Exam 04 | `C` | 27-05-2025 | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `3 hours` |
 
 </div>
 
